@@ -4,33 +4,23 @@
 my arduino programes
 
 #### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+These programes were developed based on arduino IDE
 
 #### Instructions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+1.  The source code of the programes is located in the folder "Examples"
+2.  The libraries used in the programes are located in the folder "lib"
 
 
-#### Gitee Feature
+#### Special statement
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.Thanks to all the developers who contributed the library for this project
+2.The original addresses of some libraries are as follows
+    https://github.com/adafruit/Adafruit_BusIO
+    https://github.com/adafruit/Adafruit-GFX-Library
+    https://github.com/adafruit/TFTLCD-Library
+    https://github.com/wayoda/LedControl
+    https://github.com/olikraus/U8g2_Arduino
+    https://github.com/msparks/arduino-ds1302
+    https://github.com/blinker-iot/blinker-library
+3.This project is distributed under GPL3.0
