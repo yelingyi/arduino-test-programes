@@ -8,7 +8,7 @@ These programes were developed based on arduino IDE
 
 #### Instructions
 
-1.  The source code of the programes is located in the folder "Examples"
+1.  The source code of the programes is located in the folder "example"
 2.  The libraries used in the programes are located in the folder "lib"
 
 
