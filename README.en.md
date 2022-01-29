@@ -23,4 +23,5 @@ These programes were developed based on arduino IDE
     https://github.com/olikraus/U8g2_Arduino
     https://github.com/msparks/arduino-ds1302
     https://github.com/blinker-iot/blinker-library
+    https://github.com/adafruit/Adafruit_TouchScreen
 3.  This project is distributed under GPL3.0
